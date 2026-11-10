@@ -1,14 +1,15 @@
 body {
     font-family: Arial, sans-serif; /*Commentary*/
     background: linear-gradient(135deg, #7eccfa, #0e84e4);
-    color: ##333131b4;
+    color: #333131b4;
 }
 .kartu-profil {
     background-color: white;
     padding: 25px;
     border-radius: 17px;
     text-align: center;
-    width: 330px;
+    max-width: 330px;
+    width: 100%;
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
     margin: 50px auto;
 }
